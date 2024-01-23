@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Home_Validate_NewUserRegistration_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b97312e8-25f9-4738-b011-8b68e05720cf</testCaseGuid>
+</TestCaseEntity>
